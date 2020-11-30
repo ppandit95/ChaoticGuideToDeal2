@@ -1,4 +1,4 @@
-## About the Guide
+# About the Guide
 This is a supporting guide to get hold of deal.II tutorials that Dr. Bangerth has uploaded to understand its data structure in a intuitive way by playing around each example program . Although deal.II community is quite helpful and will resolve the various issues that one will encounter during this journey but an exhaustive exercise to get a grasp over this library is still missing . With this guide I intend to fill up this gap so that a new user can start up to utilise this library for his research.
-## About the Author
+# About the Author
 I am Pushkar andhave completed my graduate study  in Mechanical Engineering wherein I got to know about this library and in unsuccessful effort to get grasp over this library over past few months I look foward to frameout this guide which I found to be missing .  
