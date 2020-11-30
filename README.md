@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ppandit95/GuideTodeal.II/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ppandit95/GuideTodeal.II/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## About the Guide
+This is a supporting guide to get hold of deal.II tutorials that Dr. Bangerth has uploaded to understand its data structure in a intuitive way by playing around each example program . Although deal.II community is quite helpful and will resolve the various issues that one will encounter during this journey but an exhaustive exercise to get a grasp over this library is still missing . With this guide I intend to fill up this gap so that a new user can start up to utilise this library for his research.
+## About the Author
+I am Pushkar A Pandit and I have completed my graduate study from BITS,Pilani in mechanical engineering wherein I got to know about this library and in unsuccessful effort to get grasp over this library over past few months I look foward to frameout this guide which I found to be missing .  
